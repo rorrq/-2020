@@ -14,5 +14,5 @@ T* realloc(T* ptr, int size, int n_size) {	//Memory allocation with copy
 	return n_ptr;
 }
 #pragma once
-укц
+
 
